@@ -6,6 +6,7 @@ import org.apache.zookeeper.ZooKeeper;
 import com.lee.config.BaseConfig;
 
 /**
+ * branch dev
  * @description eclipse此处为Client端，CentOS为ZooKeeper的Server端
  * 
  * 1	通过java程序，新建链接zk，类似jdbc的connection，open.session
